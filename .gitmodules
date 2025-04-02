@@ -1,0 +1,6 @@
+[submodule "themes/linkita"]
+	path = themes/linkita
+	url = https://codeberg.org/salif/linkita.git
+[submodule "themes/themes/DeepThought"]
+	path = themes/themes/DeepThought
+	url = https://github.com/RatanShreshtha/DeepThought.git
